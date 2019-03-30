@@ -1,10 +1,4 @@
 /*!
- * vue-no-ssr v1.1.1
- * (c) 2018-present egoist <0x142857@gmail.com>
- * Released under the MIT License.
- */
-
-/*!
  * Vue.js v2.6.8
  * (c) 2014-2019 Evan You
  * Released under the MIT License.
@@ -32,4 +26,10 @@
  * vue-typer v1.2.0
  * Copyright 2016-2017 Chris Nguyen
  * Released under the MIT license.
+ */
+
+/*!
+ * vue-no-ssr v1.1.1
+ * (c) 2018-present egoist <0x142857@gmail.com>
+ * Released under the MIT License.
  */
